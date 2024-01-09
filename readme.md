@@ -9,6 +9,6 @@
 ### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,js,typescript" />
   </a>
 </p>
